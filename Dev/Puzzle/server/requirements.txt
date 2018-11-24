@@ -28,6 +28,7 @@ futures==3.2.0
 gast==0.2.0
 grpcio==1.16.0
 h5py==2.8.0
+heroku==0.1.4
 idna==2.7
 iso8601==0.1.12
 isort==4.3.4
@@ -91,7 +92,7 @@ pyobjc-framework-WebKit==2.5.1
 pyOpenSSL==0.13.1
 pyparsing==2.0.1
 pyserial==3.4
-python-dateutil==2.7.5
+python-dateutil==1.5
 pytz==2013.7
 PyYAML==3.13
 requests==2.20.0
