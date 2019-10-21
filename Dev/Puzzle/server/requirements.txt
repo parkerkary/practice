@@ -17,7 +17,7 @@ Click==7.0
 colorama==0.3.9
 configparser==3.5.0
 docutils==0.14
-ecdsa==0.13
+ecdsa==0.13.3
 enum34==1.1.6
 esptool==2.5.1
 Flask==1.0.2
