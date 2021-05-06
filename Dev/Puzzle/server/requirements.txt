@@ -21,7 +21,7 @@ ecdsa==0.13
 enum34==1.1.6
 esptool==2.5.1
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 funcsigs==1.0.2
 future==0.16.0
 futures==3.2.0
